@@ -1,4 +1,6 @@
-# app-delivery
+# Delivery
+
+Копия сайта по доставке. Сделан в марте примерно. На vue
 
 ## Project setup
 ```
